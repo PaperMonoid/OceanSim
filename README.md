@@ -1,6 +1,8 @@
 <div align="center">
   <a href="https://github.com/PaperMonoid/OceanSim">
 	<img src="images/ocean-sim.gif"/>
+	<br/>
+	<img src="images/ocean-sim-3d.gif"/>
   </a>
   <h3 align="center">Ocean Sim</h3>
 </div>

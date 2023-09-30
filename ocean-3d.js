@@ -14,7 +14,7 @@ function init() {
     // Camera and scene setup
     camera = new THREE.PerspectiveCamera(70, window.innerWidth / window.innerHeight, 0.01, 10);
     camera.position.set(-1, -1, 0.1);
-    camera.rotation.set(1, 0, 0);
+    camera.rotation.set(1.5, 0, 0);
     //camera.lookAt(new THREE.Vector3(0, 0, 0)); // Make the camera look at the center of the scene
     scene = new THREE.Scene();
 
